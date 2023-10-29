@@ -1,7 +1,6 @@
 ## Contacts
 - 👋 I'm Ženia (Evgenii) Sidorov
 - 🔭 I am passionate about software engineering, data vizualization, and corpus linguistics
-- 😄 My pronouns are He/She/They
 - 📫 Reach me at <evgenii.sidorov4@gmail.com> or [LinkedIn](https://www.linkedin.com/in/evgenii-sidorov/)
 
 ## Technology Summary
